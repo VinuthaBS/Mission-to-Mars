@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Practice files to be ignored
+index.html
+Practice_Python3.ipynb
+
+# ignore .DS_Store
+.DS_Store
