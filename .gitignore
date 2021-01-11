@@ -129,8 +129,12 @@ dmypy.json
 .pyre/
 
 # Practice files to be ignored
-index.html
+index_helloworld.html
 Practice_Python3.ipynb
+Mongo_db_insert_statements.txt
+Practice_Python3_exePATHforreference.ipynb
+Practice_Python3_withexepathonQuotesURL.ipynb
+scraping_withoutfunction.py
 
 # ignore .DS_Store
 .DS_Store
