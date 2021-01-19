@@ -1,0 +1,46 @@
+.dataframe {
+
+    color:olive;
+    border-collapse: collapse; 
+    border: 1px solid #ffc0cb;
+
+}
+
+.dataframe td, th {
+    padding: 10px;
+}
+
+.dataframe tr:nth-child(even) {
+    background: #ffc0cb;
+}
+
+.dataframe tr:hover {
+    background: white;
+    cursor: pointer;
+}
+
+.btn {
+
+    background-color:mistyrose;
+    color: olive;
+    font-size: 24px;
+    font-style: bold;
+    border-radius: 12px;
+
+}
+
+.btn:hover {
+
+    background-color:pink;
+    color: olive;
+}
+
+.btn:focus {
+
+    background: darkorange;
+}
+
+.text-left {
+
+    background-color: mistyrose;
+}
