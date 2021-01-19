@@ -30,5 +30,5 @@
 - Mars Facts in the form of table was scraped using the website - http://space-facts.com/mars/
 - Mars image was scraped using the website - https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars. Unfortunately this website has undergone a lot of change since 11th jan 2021, and the html components have totally changed, hence the original scraping script fails to work now. 
 - <strong>Due to this, code was updated such that scraping lines of code is entered only when the "Full Image" element is present. Else image url is updated as None, and the Mission-to-Mars Featured Image section is loaded with the static image provided as default in the html.</strong>
-
-
+---
+---
